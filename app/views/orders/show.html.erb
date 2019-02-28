@@ -1,0 +1,15 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Name:</strong>
+  <%= @order.name %>
+</p>
+
+<p>
+  <strong>Thing:</strong>
+  <%= @order.thing %>
+</p>
+<%= link_to 'Pring', order_print_path(@order, :format => :pdf) %> |
+
+<%= link_to 'Edit', edit_order_path(@order) %> |
+<%= link_to 'Back', orders_path %>
