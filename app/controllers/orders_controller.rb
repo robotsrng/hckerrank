@@ -7,7 +7,7 @@ class OrdersController < ApplicationController
       format.html
       format.pdf do
         send_data PDFKit.new(render_to_string 'print', order: @order).to_pdf
-        send_data(PDFKit.new(render_to_string 'print', order: @order).to_pdf, :disposition => 'attachment')
+        send_data(PDFKit.new(render_to_string 'print', order: @order).to_pdf, :disposition=> "attachment; filename=robots.zip")
 
       end
     end
