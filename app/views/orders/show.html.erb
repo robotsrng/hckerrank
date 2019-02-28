@@ -9,7 +9,7 @@
   <strong>Thing:</strong>
   <%= @order.thing %>
 </p>
-<%= link_to 'Pring', order_print_path(@order, :format => :pdf) %> |
+<%= link_to 'Print', order_print_path(@order, :format => :pdf) %> |
 
 <%= link_to 'Edit', edit_order_path(@order) %> |
 <%= link_to 'Back', orders_path %>
