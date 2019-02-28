@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd5df7f2-61d2-42ad-91fb-9b6c30055f58" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/controllers/orders_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/orders_controller.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/orders/print.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/orders/print.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/orders/print.pdf.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/orders/print.pdf.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/orders/show.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/orders/show.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/initializers/pdfkit.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/initializers/pdfkit.rb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,13 +43,13 @@
         <counts>
           <entry key="Gemfile" value="52" />
           <entry key="erb" value="68" />
-          <entry key="rb" value="1996" />
+          <entry key="rb" value="1997" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="RHTML" value="68" />
-          <entry key="Ruby" value="2048" />
+          <entry key="Ruby" value="2049" />
         </counts>
       </usages-collector>
     </session>
@@ -92,7 +87,7 @@
         <entry file="file://$PROJECT_DIR$/app/controllers/orders_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="198">
-              <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+              <caret line="9" column="107" selection-start-line="9" selection-start-column="107" selection-end-line="9" selection-end-column="107" />
             </state>
           </provider>
         </entry>
@@ -478,7 +473,7 @@
       <workItem from="1550878076078" duration="6040000" />
       <workItem from="1551145245345" duration="5597000" />
       <workItem from="1551157359903" duration="252000" />
-      <workItem from="1551340781784" duration="8229000" />
+      <workItem from="1551340781784" duration="8532000" />
     </task>
     <servers />
   </component>
@@ -500,7 +495,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20118000" />
+    <option name="totallyTimeSpent" value="20421000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="37" width="1920" height="1043" extended-state="6" />
@@ -731,7 +726,7 @@
     <entry file="file://$PROJECT_DIR$/app/controllers/orders_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
-          <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <caret line="9" column="107" selection-start-line="9" selection-start-column="107" selection-end-line="9" selection-end-column="107" />
         </state>
       </provider>
     </entry>
